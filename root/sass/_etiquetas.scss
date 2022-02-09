@@ -1,0 +1,47 @@
+@import"colores";
+
+body{
+    background-image: url(https://c.wallhere.com/photos/c9/25/1920x1080_px_Abstract_Blue_And_White_Wallpaper_HD-809474.jpg!d);
+    background-size:100%;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: $color2;
+}
+
+img{
+    vertical-align: middle;
+          }
+
+table {
+            caption-side: bottom;
+            border-collapse: collapse;
+  }
+  
+  tr,td,th {
+          border-color: inherit;
+          border-style: solid;
+          border-width: 0;
+        }
+      
+  th {
+          text-align: inherit;
+          text-align: -webkit-match-parent;
+        }
+
+h6,h5,h4,h3,h2,h1{
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            line-height: 1.2;
+          }
+
+a {
+            color: $color3;
+            text-decoration: underline;
+          }
